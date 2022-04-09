@@ -6,12 +6,14 @@ npm install
 ```
 
 # Ayudas :
-
+```
 --base: indica la base del número para multiplicar
 --listar: enlista la tabla de multiplicar
 --hasta: indica el el rango de números a multiplicar
+```
 
-# alias:
+
+# Alias:
 ```
 - b
 - l 
